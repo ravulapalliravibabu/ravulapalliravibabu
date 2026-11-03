@@ -7,10 +7,12 @@
 ---
 
 ### 💻 About Me
-- 🚀 **Site Reliability Engineer (SRE) & Production Support Specialist** with **10 years of extensive experience** optimizing application reliability, uptime, and performance.
-- 🛠️ Expert in shifting traditional production support into high-efficiency SRE paradigms and maintaining **100% SLA compliance** for multi-country platforms.
+- 🚀 **Site Reliability Engineer (SRE) & Systems Automation Specialist** with **10 total years of IT enterprise experience**.
+- ⏳ **The Breakdown:** Spent **5 years in Production & Application Support** masterfully handling incident command, followed by **5 years in Core SRE** driving proactive automation and infrastructure resilience.
+- 🛠️ Expert in shifting traditional operations into high-efficiency SRE paradigms, maintaining **100% SLA compliance** for multi-country platforms.
 - 📈 Specializes in proactive monitoring, automated release management, systematic toil reduction, and **MTTD/MTTR optimization**.
 - 💬 Ask me about **Unix/Linux ecosystems, infrastructure observability dashboards, incident command (P1/P2), and automation script engineering**.
+
 
 ---
 
