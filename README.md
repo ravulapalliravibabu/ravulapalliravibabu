@@ -1,7 +1,7 @@
 # Hi there, I'm Ravi Babu! 👋
 
-![SRE Banner](https://shields.io)
-
+> ### 🛠️ SITE RELIABILITY ENGINEERING & DEVOPS AUTOMATION 🚀
+> **10+ Years Optimizing Application Reliability, Infrastructure Performance, & Production Operations**
 ---
 
 ### 💻 About Me
