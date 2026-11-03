@@ -34,8 +34,7 @@
 
 ---
 
+---
+
 ### 📫 Connect with Me
-<p align="left">
-  < a href="https://linkedin.com" target="_blank"><strong>LinkedIn Profile</strong>< /a> &nbsp;|&nbsp; 
-  < a href="mailto:ravibabu010203@gmail.com"><strong>Email Me</strong>< /a>
-</p>
+[**LinkedIn Profile**](https://linkedin.com) &nbsp;|&nbsp; [**Email Me**](mailto:ravibabu010203@gmail.com)
