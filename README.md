@@ -1,8 +1,6 @@
 # Hi there, I'm Ravi Babu! 👋
 
-<p align="center">
-  <img src="https://shields.io" alt="SRE Banner" />
-</p>
+![SRE Banner](https://shields.io)
 
 ---
 
