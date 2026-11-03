@@ -1,8 +1,15 @@
 # Hi there, I'm Ravi Babu! 👋
 
-<kbd>
-  <img src="https://placeholder.com" alt="SRE Banner Alternative" width="100%" />
-</kbd>
+<table>
+  <tr>
+    <td align="center" bgcolor="#121011">
+      <br />
+      <h1>🛠️ SITE RELIABILITY ENGINEERING & DEVOPS AUTOMATION 🚀</h1>
+      <h3><b>10+ Years Optimizing Application Reliability, Infrastructure Performance, & Production Operations</b></h3>
+      <br />
+    </td>
+  </tr>
+</table>
 
 ---
 
