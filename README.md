@@ -1,15 +1,8 @@
 # Hi there, I'm Ravi Babu! 👋
 
-<table>
-  <tr>
-    <td align="center" bgcolor="#121011">
-      <br />
-      <h1>🛠️ SITE RELIABILITY ENGINEERING & DEVOPS AUTOMATION 🚀</h1>
-      <h3><b>10+ Years Optimizing Application Reliability, Infrastructure Performance, & Production Operations</b></h3>
-      <br />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="image_2358c4d8.jpg" alt="Ravi Babu SRE DevOps Banner" width="100%" />
+</p>
 
 ---
 
