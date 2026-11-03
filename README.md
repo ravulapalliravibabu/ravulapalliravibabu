@@ -1,7 +1,9 @@
 # Hi there, I'm Ravi Babu! 👋
 
-> ### 🛠️ SITE RELIABILITY ENGINEERING & DEVOPS AUTOMATION 🚀
-> **10+ Years Optimizing Application Reliability, Infrastructure Performance, & Production Operations**
+<kbd>
+  <img src="https://placeholder.com" alt="SRE Banner Alternative" width="100%" />
+</kbd>
+
 ---
 
 ### 💻 About Me
