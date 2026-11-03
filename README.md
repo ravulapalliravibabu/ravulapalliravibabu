@@ -1,7 +1,12 @@
-<h1 align="center">
-  <img src="https://fontimg.com" alt="Hi there, I'm Ravi Babu!" width="450"><br>
-</h1>
+<div align="center">
+  <h1>✨ RAVI BABU ✨</h1>
+  <p><b>🚀 SITE RELIABILITY ENGINEER &bull; DEV&CLOUD AUTOMATION 🛠️</b></p>
+  <p><i>Transforming Production Operations into High-Availability Infrastructure</i></p>
+</div>
 
+<p align="center">
+  <img src="image_2358c4d8.jpg" alt="Ravi Babu SRE DevOps Banner" width="100%" />
+</p>
 
 ---
 
@@ -11,7 +16,6 @@
 - 🛠️ Expert in shifting traditional operations into high-efficiency SRE paradigms, maintaining **100% SLA compliance** for multi-country platforms.
 - 📈 Specializes in proactive monitoring, automated release management, systematic toil reduction, and **MTTD/MTTR optimization**.
 - 💬 Ask me about **Unix/Linux ecosystems, infrastructure observability dashboards, incident command (P1/P2), and automation script engineering**.
-
 
 ---
 
