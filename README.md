@@ -1,5 +1,9 @@
 # Hi there, I'm Ravi Babu! 👋
 
+<p align="center">
+  <img src="https://shields.io" width="100%" alt="SRE Banner" />
+</p>
+
 ---
 
 ### 💻 About Me
@@ -31,8 +35,6 @@
 - ⚙️ Automated routine system health checks to eliminate manual operational toil.
 - 🌍 Monitored and preserved timely data batch processing for massive financial ecosystems extending through **17 countries**.
 - 📦 Executed hundreds of complex code deployments across global pre-production and production environments with **zero rollbacks**.
-
----
 
 ---
 
