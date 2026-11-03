@@ -1,8 +1,7 @@
-# Hi there, I'm Ravi Babu! 👋
+<h1 align="center">
+  <img src="https://fontimg.com" alt="Hi there, I'm Ravi Babu!" width="450"><br>
+</h1>
 
-<p align="center">
-  <img src="image_2358c4d8.jpg" alt="Ravi Babu SRE DevOps Banner" width="100%" />
-</p>
 
 ---
 
