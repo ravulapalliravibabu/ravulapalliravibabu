@@ -1,14 +1,5 @@
 # Hi there, I'm Ravi Babu! 👋
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
-
 ---
 
 ### 💻 About Me
@@ -21,28 +12,17 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- Operating Systems -->
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Shell Scripting" />
-  
-  <!-- Observability & Monitoring -->
-  <img src="https://shields.io" alt="Splunk" />
-  <img src="https://shields.io" alt="Grafana" />
-  <img src="https://shields.io" alt="Prometheus" />
-  <img src="https://shields.io" alt="Dynatrace" />
-  
-  <!-- CI/CD, Workload Automation & ITSM -->
-  <img src="https://shields.io" alt="Harness" />
-  <img src="https://shields.io" alt="ServiceNow" />
-  <img src="https://shields.io" alt="Autosys" />
-  <img src="https://shields.io" alt="Git" />
+#### 🐧 Operating Systems & Scripting
+`Linux` &bull; `Unix` &bull; `Shell Scripting` &bull; `Windows`
 
-  <!-- Databases & Collaboration -->
-  <img src="https://shields.io" alt="Oracle" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Jira" />
-</p>
+#### 📊 Observability & Monitoring
+`Splunk` &bull; `Grafana` &bull; `Prometheus` &bull; `Dynatrace` &bull; `AppDynamics` &bull; `Nagios`
+
+#### ⚙️ CI/CD, Workload Automation & ITSM
+`Harness` &bull; `UrbanCode Deploy (UCD)` &bull; `ServiceNow` &bull; `Autosys` &bull; `Jira` &bull; `Git` &bull; `GitHub`
+
+#### 🗄️ Databases
+`Oracle` &bull; `MySQL` &bull; `SQL Server` &bull; `Teradata`
 
 ---
 
@@ -54,20 +34,8 @@
 
 ---
 
-### 📈 Activity & Contribution
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ravibabu010203@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  < a href="https://linkedin.com" target="_blank"><strong>LinkedIn Profile</strong>< /a> &nbsp;|&nbsp; 
+  < a href="mailto:ravibabu010203@gmail.com"><strong>Email Me</strong>< /a>
 </p>
